@@ -1,17 +1,17 @@
 # Default, Defaults
-markdown: redcarpet
-highlighter: pygments # or rouge or null
+# markdown: redcarpet
+highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Artist Theme
-email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+title: RR
+# email: your-email@domain.com
+description: lorem
 
 #GitHub Project Pages Settings
-url: "http://ninapetrop.github.io/Artist-Theme"
-baseurl: "/Artist-Theme"
-url-pretty: "ninapetrop.github.io/Artist-Theme"
+url: "https://ria-rivera.github.io/blog/"
+baseurl: "/blog"
+url-pretty: "ria-rivera.github.io/blog/"
 
 # Socail Media links
 # Use these to link users to your organization's social media sites
@@ -19,5 +19,5 @@ twitter:
 facebook:
 google:
 
-author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+author: RR
+authorBio: lorem.
